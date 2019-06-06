@@ -1,4 +1,4 @@
 <Response>
-    <Say voice="alice">Hi Gaurav! Your customer is waiting, please start your journey!</Say>
+    <Say voice="alice">Hi. Your customer is waiting, please start your journey.</Say>
     <Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
